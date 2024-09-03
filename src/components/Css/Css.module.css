@@ -1,0 +1,16 @@
+.Musics{
+    display: flex;
+    margin: auto;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 900px;
+    padding: 10px 0px;
+}
+.MusicsItem{
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    width: 360px;
+    margin: auto;
+    margin-top: 10px;
+}
