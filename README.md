@@ -1,3 +1,3 @@
 # loveMusic React
 
-Simple REACT website for interacting with API
+Simple REACT website for interaction with API
